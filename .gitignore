@@ -8,8 +8,9 @@
 /front/dist
 
 # Local env files
-/front/.env.local
-/front/.env.*.local
+
+# /front/.env.local
+# /front/.env.*.local
 
 # Log files
 /front/npm-debug.log*
