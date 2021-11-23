@@ -8,9 +8,8 @@
 /front/dist
 
 # Local env files
-
-# /front/.env.local
-# /front/.env.*.local
+/front/.env.local
+/front/.env.*.local
 
 # Log files
 /front/npm-debug.log*
@@ -36,10 +35,10 @@
 /back/vendor
 
 # Back : Enviroment Variable file
-# /back/.env
+/back/.env
 
 # Back : Enviroment Variable file backup
-# /back/.env.backup
+/back/.env.backup
 
 # Back : Unit Test
 /back/.phpunit.result.cache
